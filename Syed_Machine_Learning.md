@@ -1,7 +1,7 @@
   
                                                   
    
-![Linkedin](https://www.linkedin.com/in/syed-mushtaq-229989148/)  
+[Linkedin](https://www.linkedin.com/in/syed-mushtaq-229989148/)  
 ## Syed Mushtaq :wave:
 Hi I am _Syed Mushtaq_ I Love Machine Learning.
 ***This Repo is about  Machine Learning***
@@ -48,5 +48,5 @@ Classification algorithms:
 * Naive Bayes
 ```
                           
-@github/                          
+                       
            
