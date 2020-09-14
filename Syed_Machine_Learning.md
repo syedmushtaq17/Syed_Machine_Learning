@@ -1,7 +1,7 @@
   
                                                   
    
-[Linkedin](https://www.linkedin.com/in/syed-mushtaq-229989148/)  
+[![](https://github.com/syedmushtaq17/Syed_Machine_Learning/blob/master/linkedin.png)](https://www.linkedin.com/in/syed-mushtaq-229989148/)  
 ## Syed Mushtaq :wave:
 Hi I am _Syed Mushtaq_ I Love Machine Learning.
 ***This Repo is about  Machine Learning***
